@@ -1,10 +1,10 @@
-# Happymart Ecommerce website
+# Happymart E-commerce website
 
 ```
 # Install dependencies
 $ npm install
 
-# Start development server
+# Start the development server
 $ npm start
 
 node version:
